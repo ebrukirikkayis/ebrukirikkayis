@@ -10,7 +10,7 @@
 
 🔗  Connect with me
 * [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ebrukirikkayis)
-* [![Linkedin Badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)(https://www.linkedin.com/in/ebrukirikkayis/)
+* [![Linkedin Badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ebrukirikkayis/)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/:user/:repo)
 
