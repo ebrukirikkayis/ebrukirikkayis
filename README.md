@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning Methods
 
 📕  Latest Blog Posts
-* [GANS: Generative Adversalial Networks](https://medium.com/@ebrukirikkayis/gans-generative-adversarial-networks-2061508de7fc)
+* [GANS: Generative Adversarial Networks](https://medium.com/@ebrukirikkayis/gans-generative-adversarial-networks-2061508de7fc)
 * [Renkli Görüntü İşleme](https://medium.com/@ebrukirikkayis/renkli-görüntü-i̇şleme-a9f99bc3f7b8)
 * [GPU desteği olmayan bilgisayarlarda derin öğrenme ortamı yaratma ve CNN modeli eğitme~Anaconda](https://medium.com/@ebrukirikkayis/gpu-desteği-olmayan-bilgisayarlarda-derin-öğrenme-ortamı-yaratma-anaconda-ac793a6cfca2)
 
