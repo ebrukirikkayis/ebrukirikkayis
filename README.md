@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning, Image Processing
-- 🌱 I’m currently learning Deep Learning Methods
+- 🌱 I’m currently learning Large Language Models and Generative AI
 
 📕  Latest Blog Posts
 * [GANS: Generative Adversarial Networks](https://medium.com/@ebrukirikkayis/gans-generative-adversarial-networks-2061508de7fc)
