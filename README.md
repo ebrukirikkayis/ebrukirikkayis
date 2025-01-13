@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Large Language Models and Generative AI
 
 📕  Latest Blog Posts
+* [RAG:Retrieval Augmented Generation](https://medium.com/@ebrukirikkayis/rag-retrieval-augmented-generation-44b22330103e)
 * [Derin Öğrenme Modeli ile Tensorflow Servisi Kullanmak](https://medium.com/@ebrukirikkayis/derin-öğrenme-modelinde-tensorflow-servisi-kullanmak-c6c62a8d505e)
 * [Large Language Models and Generative AI](https://medium.com/@ebrukirikkayis/large-language-models-and-generative-ai-c96767d23c71)
 * [GANS: Generative Adversarial Networks](https://medium.com/@ebrukirikkayis/gans-generative-adversarial-networks-2061508de7fc)
-* [GPU desteği olmayan bilgisayarlarda derin öğrenme ortamı yaratma ve CNN modeli eğitme~Anaconda](https://medium.com/@ebrukirikkayis/gpu-desteği-olmayan-bilgisayarlarda-derin-öğrenme-ortamı-yaratma-anaconda-ac793a6cfca2)
 
 🔗  Connect with me
 
