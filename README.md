@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning, Deep Learning, Image Processing
-- 🌱 I’m currently learning Large Language Models and Generative AI
+- 🔭 I’m currently working on Generative AI, Agentic workflows, LLMs
 
 📕  Latest Blog Posts
 * [RAG:Retrieval Augmented Generation](https://medium.com/@ebrukirikkayis/rag-retrieval-augmented-generation-44b22330103e)
